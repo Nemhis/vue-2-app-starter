@@ -1,0 +1,13 @@
+$vt-color-default: #99E1DE;
+$vt-color-info: #7ED6D8;
+$vt-color-success: #8BC34A;
+$vt-color-warning: #FFD466;
+$vt-color-error: #FF6D6F;
+
+@import "../../../node_modules/vue-toastification/src/scss/variables";
+@import "../../../node_modules/vue-toastification/src/scss/toastContainer";
+@import "../../../node_modules/vue-toastification/src/scss/toast";
+@import "../../../node_modules/vue-toastification/src/scss/closeButton";
+@import "../../../node_modules/vue-toastification/src/scss/progressBar";
+@import "../../../node_modules/vue-toastification/src/scss/icon";
+@import "../../../node_modules/vue-toastification/src/scss/animations/bounce";
